@@ -1,0 +1,34 @@
+The following deliveries are ones that are bowled by fast bowlers:
+
+-Outswinge
+-Inswinger
+-Reverse swinging delivery
+-The Bouncer
+-The Yorker
+-Cross Seam Delivery
+-The Wobble ball
+-Slower balls
+-The Off Cutter
+-The Leg Cutter
+-Split Finger Delivery
+-Back of the Hand Delivery
+-The S.L.O.B (Slower Obsolete Ball)
+-The Knuckle ball
+-The Palm Delivery
+The following deliveries are ones that are bowled by spin bowlers:
+
+-The Leg Break
+-The Googly
+-Top spinner (Leg Break Bowlers)
+-The Slider
+-The Flipper
+-The Off Break
+-Top spinner (Off Break Bowlers)
+-The Arm Ball
+-The Doosra
+-The Carrom Ball
+-Under Cutter
+There are also the following two deliveries which don’t really fit into either category – but I’ll cover them in this post anyway:
+
+-The Full Toss
+-The Beamer
